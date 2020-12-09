@@ -8,7 +8,7 @@ this repo is for learning git :)
 - no problem if you write a lot of comments 
 
 
-'''python
+```python
 print('hello world!')
 
 
